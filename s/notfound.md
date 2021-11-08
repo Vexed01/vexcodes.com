@@ -1,0 +1,9 @@
+---
+layout: centred_page
+---
+
+# Hmm, redirect not found
+
+That redirect can't be found.
+
+If you're lost, you can always go back to [vexcodes.com](https://vexcodes.com).
