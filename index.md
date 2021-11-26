@@ -16,6 +16,6 @@ If you're looking for my cog docs, they're at [cogdocs.vexcodes.com](https://cog
 
 GitHub: [Vexed01](https://s.vexcodes.com/gh)
 
-Discord: `Vexed#3211`
+Discord: `Vexed#9000`
 
 Email contact: [vex@vexcodes.com](mailto:vex@vexcodes.com)
