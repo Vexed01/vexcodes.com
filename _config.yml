@@ -21,7 +21,7 @@
 title: Vexed
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vexcodes.com" # the base hostname & protocol for your site, e.g. http://example.com
-permalink: pretty
+permalink: /blog/:year/:month/:day/:title.html
 
 # Gems
 plugins:
@@ -44,10 +44,10 @@ author:
   name: Vexed
   url: https://github.com/Vexed01
   email: vex@vexcodes.com
-# Navbar page list
-# nav:
-#   - title: Blog
-#     url: /archive
 
-#   - title: About
-#     url: /about
+# Navbar page list
+nav:
+  - title: Blog
+    url: /blog
+  - title: About
+    url: /about

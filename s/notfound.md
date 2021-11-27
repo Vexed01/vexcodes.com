@@ -1,8 +1,7 @@
 ---
 layout: centred_page
+title: Redirect not found
 ---
-
-# Hmm, redirect not found
 
 That redirect can't be found.
 

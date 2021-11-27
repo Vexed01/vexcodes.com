@@ -1,8 +1,7 @@
 ---
 layout: centred_page
+title: "Link Redirect"
 ---
-
-# Hello there
 
 You've stumbled across my short link redirect subdomain.
 
