@@ -8,7 +8,7 @@ title: Home
 
 # Hello!
 
-My main project are my [cogs](https://s.vexcodes.com/gh/cogs)
+My main project are my [cogs](https://go.vexcodes.com/gh/cogs)
 for a self-hosted Discord bot called [Red](https://github.com/Cog-Creators/Red-DiscordBot).
 
 I also have a [small blog](/blog).
@@ -19,7 +19,7 @@ If you're looking for my cog docs, they're at [cogdocs.vexcodes.com](https://cog
 
 ---
 
-GitHub: [Vexed01](https://s.vexcodes.com/gh)
+GitHub: [Vexed01](https://go.vexcodes.com/gh)
 
 Discord: `Vexed#9000`
 

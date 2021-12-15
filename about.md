@@ -20,9 +20,13 @@ A small API hosted on Cloudflare Workers which hosts the latest versions of my c
 
 The documentation for my cogs, build by [RTD](https://readthedocs.org/).
 
-## `s.vexcodes.com`
+## `go.vexcodes.com`
 
 A URL redirection subdomain with a few redirects. This is also powered by Cloudflare Workers.
+
+## `s.vexcodes.com`
+
+Deprecated subdomain which is identical to `go.vexcodes.com`.
 
 ## `img.vexcodes.com`
 
