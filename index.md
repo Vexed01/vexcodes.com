@@ -13,7 +13,7 @@ for a self-hosted Discord bot called [Red](https://github.com/Cog-Creators/Red-D
 
 I also have a [small blog](/blog).
 
-There's more about what this domain has on the [about page]](/about).
+There's more about what this domain has on the [about page](/about).
 
 If you're looking for my cog docs, they're at [cogdocs.vexcodes.com](https://cogdocs.vexcodes.com).
 
