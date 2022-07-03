@@ -1,3 +1,8 @@
+---
+layout: page
+title: Lobbies form
+---
+
 <section class="jsonify">
     <form>
         <label for="fname">First name:</label><br>
